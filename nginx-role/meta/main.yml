@@ -3,7 +3,7 @@
 galaxy_info:
   author: Chaitra MK
   description: Custom Ansible role to install Nginx
-  company: "ArisanTek"
+  company: "ArtisanTek"
   license: MIT
   min_ansible_version: 2.12
 
