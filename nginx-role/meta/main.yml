@@ -19,12 +19,18 @@ galaxy_info:
 
 dependencies: []
 
-
-
 galaxy_info:
-  author: Chaitra MK
-  description: your role description
-  company: your company (optional)
+  role_name: nginx_role
+  namespace: chaitramk23
+  author: chaitramk
+  description: Install and configure Nginx on webservers
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+dependencies: []
 
 
   
